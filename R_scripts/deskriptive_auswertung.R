@@ -1,4 +1,4 @@
-setwd("/home/cygnid/OneDrive/PHLU/BS/MA/V2/stat/")
+#setwd
 source("data_manip.R")
 
 #-------------------------- GESTAPELTES BALKENDIAGRAMM -------------------------------------------------------
