@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("/home/cygnid/OneDrive/PHLU/BS/MA/V2/stat/")
+#setwd
 
 #-------------------------- LIBRARIES LADEN -------------------------------------------------------------
 library(tidyverse)
